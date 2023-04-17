@@ -1,15 +1,6 @@
-#### React Router Fix
+### cocktailsApp from DavronovAli
+`You can see a live view of the project through the link below :`
+#### [netlify](https://the-ormus-011.netlify.app/) || 👉 https://the-ormus-011.netlify.app/
+![reminderApp](/public/preview-img/img.jpg)
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+`powered by 2023 | and welcome to DavronovAli`
